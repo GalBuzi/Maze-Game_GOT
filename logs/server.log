@@ -1,0 +1,423 @@
+2019.06.14 16:10:29.191 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze
+2019.06.14 16:10:29.195 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 16:10:42.061 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze
+2019.06.14 16:10:42.061 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 16:10:55.850 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze
+2019.06.14 16:10:55.852 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 10 Columns
+2019.06.14 16:15:46.242 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 16:15:46.245 INFO  Model.MyModel - Client Asked For Maze With 10 Rows and 10 Columns
+2019.06.14 16:16:04.749 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 16:16:04.769 INFO  Model.MyModel - Solution For Client is 25 steps long
+2019.06.14 18:58:19.408 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 18:58:19.412 INFO  Model.MyModel - Client Asked For Maze With 4 Rows and 4 Columns
+2019.06.14 18:58:26.023 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 18:58:26.032 INFO  Model.MyModel - Solution For Client is 5 steps long
+2019.06.14 18:59:28.975 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 18:59:28.979 INFO  Model.MyModel - Client Asked For Maze With 10 Rows and 10 Columns
+2019.06.14 18:59:59.611 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 18:59:59.614 INFO  Model.MyModel - Client Asked For Maze With 10 Rows and 10 Columns
+2019.06.14 19:14:11.674 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:14:11.678 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 19:15:02.677 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:15:02.680 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 19:37:44.295 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:37:44.298 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 19:45:04.298 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:45:04.301 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 19:51:58.650 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:51:58.653 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 19:56:53.916 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:56:53.920 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 19:58:11.349 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 19:58:11.352 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 20:05:29.004 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 20:05:29.008 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 20:05:51.189 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 20:05:51.193 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.14 20:06:11.840 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 20:06:11.853 INFO  Model.MyModel - Solution For Client is 5 steps long
+2019.06.14 21:00:10.828 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:00:10.831 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:05:04.833 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:05:04.836 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.14 21:05:19.989 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:05:19.990 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:07:19.469 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:07:19.472 INFO  Model.MyModel - Client Asked For Maze With 10 Rows and 10 Columns
+2019.06.14 21:07:31.919 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:07:31.920 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:08:42.736 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:08:42.742 INFO  Model.MyModel - Client Asked For Maze With 50 Rows and 50 Columns
+2019.06.14 21:09:37.077 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:09:37.080 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:11:58.695 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:11:58.699 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:17:44.312 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 21:22:57.829 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:22:57.831 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:27:33.292 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:27:33.296 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:28:14.734 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:28:14.737 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:31:07.429 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:31:07.433 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:35:03.356 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:35:03.360 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:37:14.369 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:37:14.372 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:38:08.599 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:38:08.603 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:38:24.465 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 21:38:24.507 INFO  Model.MyModel - Solution For Client is 99 steps long
+2019.06.14 21:39:08.412 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:39:08.416 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:44:13.865 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:44:13.869 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:44:19.795 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 21:44:19.828 INFO  Model.MyModel - Solution For Client is 86 steps long
+2019.06.14 21:44:35.952 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:44:35.953 INFO  Model.MyModel - Client Asked For Maze With 50 Rows and 50 Columns
+2019.06.14 21:45:45.300 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:45:45.305 INFO  Model.MyModel - Client Asked For Maze With 50 Rows and 50 Columns
+2019.06.14 21:47:05.497 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:47:05.500 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:48:44.402 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:48:44.406 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:54:35.219 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:54:35.224 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 21:56:22.601 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 21:56:22.641 INFO  Model.MyModel - Solution For Client is 103 steps long
+2019.06.14 21:57:27.403 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 21:57:27.406 INFO  Model.MyModel - Client Asked For Maze With 10 Rows and 10 Columns
+2019.06.14 22:15:50.423 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 22:15:50.427 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.14 22:16:40.828 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 22:16:40.829 INFO  Model.MyModel - Client Asked For Maze With 50 Rows and 50 Columns
+2019.06.14 22:23:40.472 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.14 22:23:40.476 INFO  Model.MyModel - Client Asked For Maze With 15 Rows and 15 Columns
+2019.06.14 22:23:55.623 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.14 22:23:55.646 INFO  Model.MyModel - Solution For Client is 48 steps long
+2019.06.15 10:27:24.240 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 10:27:24.242 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 10:31:22.621 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 10:31:22.624 INFO  Model.MyModel - Client Asked For Maze With 4 Rows and 4 Columns
+2019.06.15 11:13:34.942 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 11:13:34.946 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 11:13:34.947 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {16,13}
+2019.06.15 11:13:57.038 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 11:13:57.074 INFO  Model.MyModel - Solution For Client is 85 steps long
+2019.06.15 11:15:44.277 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 11:15:44.281 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 11:15:44.282 INFO  Model.MyModel - Client received new Maze with Starting point at {7,17} and Ending point at {3,11}
+2019.06.15 11:15:48.058 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 11:15:48.090 INFO  Model.MyModel - Solution For Client is 66 steps long
+2019.06.15 11:16:15.784 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 11:16:15.788 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 11:16:15.789 INFO  Model.MyModel - Client received new Maze with Starting point at {6,16} and Ending point at {10,4}
+2019.06.15 11:18:05.345 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 11:18:05.348 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 11:18:05.349 INFO  Model.MyModel - Client received new Maze with Starting point at {0,14} and Ending point at {12,10}
+2019.06.15 11:18:07.663 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 11:18:07.699 INFO  Model.MyModel - Solution For Client is 94 steps long
+2019.06.15 11:18:19.044 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 11:18:19.074 INFO  Model.MyModel - Solution For Client is 94 steps long
+2019.06.15 12:08:02.528 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 12:08:02.532 INFO  Model.MyModel - Client Asked For Maze With 20 Rows and 20 Columns
+2019.06.15 12:08:02.533 INFO  Model.MyModel - Client received new Maze with Starting point at {6,7} and Ending point at {16,11}
+2019.06.15 12:34:36.696 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 12:34:36.699 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 12:34:36.700 INFO  Model.MyModel - Client received new Maze with Starting point at {5,3} and Ending point at {5,1}
+2019.06.15 12:49:41.780 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 12:49:41.782 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 12:49:41.783 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,4}
+2019.06.15 12:55:00.736 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 12:55:00.739 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 12:55:00.740 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {6,6}
+2019.06.15 12:59:49.736 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 12:59:49.740 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 12:59:49.741 INFO  Model.MyModel - Client received new Maze with Starting point at {1,5} and Ending point at {1,3}
+2019.06.15 13:03:15.948 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 13:03:15.952 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 13:03:15.953 INFO  Model.MyModel - Client received new Maze with Starting point at {2,3} and Ending point at {6,1}
+2019.06.15 13:03:41.065 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 13:03:41.066 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 13:03:41.067 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,4}
+2019.06.15 13:23:19.190 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 13:23:19.193 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 13:23:19.193 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,2}
+2019.06.15 15:27:18.835 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 15:27:18.839 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 15:27:18.840 INFO  Model.MyModel - Client received new Maze with Starting point at {2,2} and Ending point at {6,0}
+2019.06.15 16:09:15.040 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:09:15.044 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:09:15.045 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {0,6}
+2019.06.15 16:10:52.469 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:10:52.472 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:10:52.473 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {4,0}
+2019.06.15 16:13:29.947 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:13:29.952 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:13:29.953 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {2,4}
+2019.06.15 16:16:23.744 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:16:23.747 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:16:23.747 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {2,4}
+2019.06.15 16:22:37.916 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:22:37.919 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:22:37.920 INFO  Model.MyModel - Client received new Maze with Starting point at {5,1} and Ending point at {1,5}
+2019.06.15 16:28:13.141 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:28:13.145 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:28:13.146 INFO  Model.MyModel - Client received new Maze with Starting point at {1,0} and Ending point at {3,2}
+2019.06.15 16:28:22.058 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:28:22.059 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:28:22.060 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {4,4}
+2019.06.15 16:28:30.089 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:28:30.090 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:28:30.091 INFO  Model.MyModel - Client received new Maze with Starting point at {3,2} and Ending point at {1,0}
+2019.06.15 16:28:37.520 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:28:37.520 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:28:37.521 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,0}
+2019.06.15 16:29:21.664 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:29:21.667 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:29:21.668 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {6,0}
+2019.06.15 16:30:07.979 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:30:07.982 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:30:07.983 INFO  Model.MyModel - Client received new Maze with Starting point at {0,2} and Ending point at {0,4}
+2019.06.15 16:30:36.907 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:30:36.911 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:30:36.912 INFO  Model.MyModel - Client received new Maze with Starting point at {2,3} and Ending point at {6,5}
+2019.06.15 16:31:53.705 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:31:53.708 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:31:53.708 INFO  Model.MyModel - Client received new Maze with Starting point at {1,1} and Ending point at {5,1}
+2019.06.15 16:32:13.554 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:32:13.555 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:32:13.556 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {6,1}
+2019.06.15 16:32:23.706 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:32:23.707 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:32:23.708 INFO  Model.MyModel - Client received new Maze with Starting point at {3,0} and Ending point at {5,0}
+2019.06.15 16:32:37.229 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:32:37.230 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:32:37.230 INFO  Model.MyModel - Client received new Maze with Starting point at {0,3} and Ending point at {6,1}
+2019.06.15 16:32:59.418 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:32:59.418 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:32:59.419 INFO  Model.MyModel - Client received new Maze with Starting point at {3,5} and Ending point at {1,5}
+2019.06.15 16:33:10.602 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:33:10.603 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:33:10.604 INFO  Model.MyModel - Client received new Maze with Starting point at {4,3} and Ending point at {0,1}
+2019.06.15 16:33:24.590 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:33:24.591 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:33:24.591 INFO  Model.MyModel - Client received new Maze with Starting point at {3,0} and Ending point at {1,0}
+2019.06.15 16:33:40.422 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:33:40.422 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:33:40.423 INFO  Model.MyModel - Client received new Maze with Starting point at {4,5} and Ending point at {6,5}
+2019.06.15 16:33:56.864 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:33:56.864 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:33:56.865 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {6,0}
+2019.06.15 16:34:40.128 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:34:40.132 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:34:40.132 INFO  Model.MyModel - Client received new Maze with Starting point at {5,3} and Ending point at {5,1}
+2019.06.15 16:34:53.669 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:34:53.670 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:34:53.671 INFO  Model.MyModel - Client received new Maze with Starting point at {5,0} and Ending point at {1,6}
+2019.06.15 16:36:25.597 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:36:25.600 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:36:25.600 INFO  Model.MyModel - Client received new Maze with Starting point at {5,2} and Ending point at {5,0}
+2019.06.15 16:36:33.154 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 16:36:33.172 INFO  Model.MyModel - Solution For Client is 17 steps long
+2019.06.15 16:37:07.401 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:37:07.402 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:37:07.402 INFO  Model.MyModel - Client received new Maze with Starting point at {3,1} and Ending point at {1,1}
+2019.06.15 16:53:22.071 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 16:53:22.072 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 16:53:22.073 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {4,2}
+2019.06.15 17:08:33.618 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:08:33.622 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:08:33.623 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,6}
+2019.06.15 17:10:14.255 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:10:14.258 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:10:14.259 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,4}
+2019.06.15 17:15:29.471 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:15:29.474 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:15:29.475 INFO  Model.MyModel - Client received new Maze with Starting point at {3,3} and Ending point at {5,5}
+2019.06.15 17:16:26.249 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:16:26.262 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:16:26.263 INFO  Model.MyModel - Client received new Maze with Starting point at {2,3} and Ending point at {6,1}
+2019.06.15 17:18:38.264 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:18:38.269 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:18:38.270 INFO  Model.MyModel - Client received new Maze with Starting point at {5,0} and Ending point at {1,6}
+2019.06.15 17:21:29.594 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:21:29.598 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:21:29.599 INFO  Model.MyModel - Client received new Maze with Starting point at {5,2} and Ending point at {5,4}
+2019.06.15 17:27:51.558 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:27:51.562 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:27:51.563 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {6,6}
+2019.06.15 17:28:51.556 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:28:51.560 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:28:51.560 INFO  Model.MyModel - Client received new Maze with Starting point at {0,5} and Ending point at {2,3}
+2019.06.15 17:40:22.859 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:40:22.863 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:40:22.864 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {6,6}
+2019.06.15 17:51:49.384 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:51:49.404 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:51:49.405 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {6,1}
+2019.06.15 17:52:32.971 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:52:32.974 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:52:32.976 INFO  Model.MyModel - Client received new Maze with Starting point at {5,0} and Ending point at {5,2}
+2019.06.15 17:53:16.456 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:53:16.460 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:53:16.461 INFO  Model.MyModel - Client received new Maze with Starting point at {5,5} and Ending point at {1,5}
+2019.06.15 17:54:42.753 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:54:42.757 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:54:42.758 INFO  Model.MyModel - Client received new Maze with Starting point at {0,5} and Ending point at {0,1}
+2019.06.15 17:55:51.035 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:55:51.038 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:55:51.039 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {2,1}
+2019.06.15 17:58:34.806 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 17:58:34.809 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 17:58:34.810 INFO  Model.MyModel - Client received new Maze with Starting point at {4,5} and Ending point at {6,5}
+2019.06.15 18:07:21.400 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:07:21.405 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:07:21.405 INFO  Model.MyModel - Client received new Maze with Starting point at {0,1} and Ending point at {6,5}
+2019.06.15 18:09:36.311 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:09:36.314 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:09:36.315 INFO  Model.MyModel - Client received new Maze with Starting point at {3,4} and Ending point at {5,6}
+2019.06.15 18:28:14.107 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:28:14.110 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:28:14.110 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,0}
+2019.06.15 18:28:40.990 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:28:40.995 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:28:40.996 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {6,0}
+2019.06.15 18:28:47.010 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:28:47.010 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:28:47.011 INFO  Model.MyModel - Client received new Maze with Starting point at {3,5} and Ending point at {1,5}
+2019.06.15 18:29:07.297 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:29:07.300 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:29:07.300 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {4,2}
+2019.06.15 18:30:20.352 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:30:20.355 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:30:20.355 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {4,0}
+2019.06.15 18:30:25.230 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 18:30:25.249 INFO  Model.MyModel - Solution For Client is 18 steps long
+2019.06.15 18:31:04.048 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:31:04.049 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:31:04.050 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {2,4}
+2019.06.15 18:31:16.426 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:31:16.427 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:31:16.428 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {4,2}
+2019.06.15 18:31:27.790 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:31:27.791 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:31:27.793 INFO  Model.MyModel - Client received new Maze with Starting point at {5,1} and Ending point at {3,3}
+2019.06.15 18:32:21.406 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 18:32:21.410 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 18:32:21.411 INFO  Model.MyModel - Client received new Maze with Starting point at {3,2} and Ending point at {1,2}
+2019.06.15 18:32:46.583 INFO  Model.MyModel - Saving Maze ggg
+2019.06.15 18:33:06.915 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\ggg
+2019.06.15 19:05:55.872 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:05:55.874 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:05:55.875 INFO  Model.MyModel - Client received new Maze with Starting point at {0,1} and Ending point at {4,3}
+2019.06.15 19:13:26.743 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:13:26.747 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:13:26.748 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {0,0}
+2019.06.15 19:14:23.972 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:14:23.976 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:14:23.977 INFO  Model.MyModel - Client received new Maze with Starting point at {0,3} and Ending point at {0,5}
+2019.06.15 19:20:43.390 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:20:43.393 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:20:43.394 INFO  Model.MyModel - Client received new Maze with Starting point at {1,5} and Ending point at {1,1}
+2019.06.15 19:32:35.407 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:32:35.411 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:32:35.411 INFO  Model.MyModel - Client received new Maze with Starting point at {0,4} and Ending point at {4,2}
+2019.06.15 19:32:53.309 INFO  Model.MyModel - Saving Maze gal
+2019.06.15 19:33:55.862 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:33:55.866 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:33:55.867 INFO  Model.MyModel - Client received new Maze with Starting point at {0,5} and Ending point at {6,5}
+2019.06.15 19:34:07.149 INFO  Model.MyModel - Saving Maze shay
+2019.06.15 19:34:11.806 INFO  Model.MyModel - Saving Maze shay
+2019.06.15 19:39:48.263 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:39:48.267 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:39:48.267 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {0,6}
+2019.06.15 19:40:06.603 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:40:06.607 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:40:06.608 INFO  Model.MyModel - Client received new Maze with Starting point at {0,2} and Ending point at {0,0}
+2019.06.15 19:40:20.550 INFO  Model.MyModel - Saving Maze shat
+2019.06.15 19:40:36.315 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 19:40:36.316 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 19:40:36.316 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {0,1}
+2019.06.15 19:40:41.785 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:41:39.840 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:43:03.771 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:44:22.129 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:45:21.169 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:46:38.868 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:47:19.987 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:47:41.867 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:49:22.721 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:49:46.708 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:50:48.701 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:52:09.786 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:54:52.228 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 19:55:20.396 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\The-Seven-Kingdoms\saveMazes\shatH
+2019.06.15 20:04:49.153 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:04:49.157 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:04:49.157 INFO  Model.MyModel - Client received new Maze with Starting point at {1,0} and Ending point at {3,4}
+2019.06.15 20:05:11.656 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:05:11.657 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:05:11.658 INFO  Model.MyModel - Client received new Maze with Starting point at {5,0} and Ending point at {1,6}
+2019.06.15 20:08:32.428 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:08:32.431 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:08:32.432 INFO  Model.MyModel - Client received new Maze with Starting point at {4,1} and Ending point at {6,1}
+2019.06.15 20:43:08.942 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:43:08.945 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:43:08.946 INFO  Model.MyModel - Client received new Maze with Starting point at {5,5} and Ending point at {3,5}
+2019.06.15 20:43:22.025 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:43:22.026 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:43:22.026 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {6,0}
+2019.06.15 20:43:44.343 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:43:44.344 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:43:44.345 INFO  Model.MyModel - Client received new Maze with Starting point at {4,0} and Ending point at {2,4}
+2019.06.15 20:46:00.228 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 20:46:00.231 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 20:46:00.232 INFO  Model.MyModel - Client received new Maze with Starting point at {4,2} and Ending point at {2,6}
+2019.06.15 21:10:59.243 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:10:59.247 INFO  Model.MyModel - Client Asked For Maze With 7 Rows and 7 Columns
+2019.06.15 21:10:59.248 INFO  Model.MyModel - Client received new Maze with Starting point at {5,0} and Ending point at {1,0}
+2019.06.15 21:36:38.980 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:36:38.983 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:36:38.984 INFO  Model.MyModel - Client received new Maze with Starting point at {3,0} and Ending point at {3,4}
+2019.06.15 21:36:49.149 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:36:49.149 INFO  Model.MyModel - Client Asked For Maze With 30 Rows and 30 Columns
+2019.06.15 21:36:49.152 INFO  Model.MyModel - Client received new Maze with Starting point at {1,16} and Ending point at {23,6}
+2019.06.15 21:37:22.840 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.15 21:37:22.919 INFO  Model.MyModel - Solution For Client is 197 steps long
+2019.06.15 21:37:43.500 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:37:43.501 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:37:43.501 INFO  Model.MyModel - Client received new Maze with Starting point at {1,0} and Ending point at {3,4}
+2019.06.15 21:38:01.639 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:38:01.640 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:38:01.641 INFO  Model.MyModel - Client received new Maze with Starting point at {3,2} and Ending point at {3,0}
+2019.06.15 21:38:17.523 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:38:17.523 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:38:17.525 INFO  Model.MyModel - Client received new Maze with Starting point at {0,2} and Ending point at {0,4}
+2019.06.15 21:38:38.456 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:38:38.457 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:38:38.457 INFO  Model.MyModel - Client received new Maze with Starting point at {2,1} and Ending point at {0,1}
+2019.06.15 21:38:52.673 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:38:52.673 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:38:52.674 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {4,0}
+2019.06.15 21:39:07.926 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:39:07.927 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:39:07.928 INFO  Model.MyModel - Client received new Maze with Starting point at {0,0} and Ending point at {2,0}
+2019.06.15 21:39:25.613 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:39:25.614 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:39:25.614 INFO  Model.MyModel - Client received new Maze with Starting point at {0,2} and Ending point at {0,4}
+2019.06.15 21:39:45.177 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.15 21:39:45.177 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.15 21:39:45.178 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {4,0}
+2019.06.18 17:54:54.817 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.18 17:54:54.828 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.18 17:54:54.829 INFO  Model.MyModel - Client received new Maze with Starting point at {2,0} and Ending point at {4,4}
+2019.06.18 17:55:20.827 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked to solve maze in Port 5401
+2019.06.18 17:55:20.843 INFO  Model.MyModel - Solution For Client is 11 steps long
+2019.06.18 17:55:32.168 INFO  Model.MyModel - Saving Maze gal
+2019.06.18 17:55:53.218 INFO  Model.MyModel - Loading Maze C:\Users\gal\Desktop\ATP-Project-PartC\saveMazes\gal
+2019.06.18 17:56:37.961 INFO  Model.MyModel - Client with IP גל/192.168.211.1 Asked for new maze in Port 5400
+2019.06.18 17:56:37.962 INFO  Model.MyModel - Client Asked For Maze With 5 Rows and 5 Columns
+2019.06.18 17:56:37.963 INFO  Model.MyModel - Client received new Maze with Starting point at {3,0} and Ending point at {3,2}

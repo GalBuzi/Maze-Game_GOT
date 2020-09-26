@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <TextArea prefHeight="400.0" prefWidth="600.0" text="Game Rules:&#10;The goal of the game is to bring one of the Game Of Thrones character to the iron throne.&#10;In order to do that you need to use the num pad (as arrows) to move uppon the maze.&#10;To start playing the game you need to choose a maze size by entering num of rows and columns and then press Generate Maze button.&#10;If you are having a hard time finding the way home you can press the Solve Button and the you discover the way to the throne. But we know you can do it alone!  ;)&#10;&#10;If you want to save the current maze there are 2 options:&#10;1) You can press the Save Button&#10;2) You need to choose a name for the file-&gt; press save&#10;&#10;If you want to load a saved maze there are 2 options:&#10;1) You can press the Load Button&#10;2) You can choose file from the list-&gt; load&#10;&#10;Possible Moves:&#10;The character can only move between the walls and can not pass through them.&#10;He can go to all directions- up, down, right, left and diagonals.&#10;&#10;" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+    </children>
+</AnchorPane>

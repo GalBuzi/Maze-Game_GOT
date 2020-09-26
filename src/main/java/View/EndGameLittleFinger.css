@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: 	#E6E6FA ;
+}
+
+VBox{
+    -fx-background-image: url('../../../resources/Images/LittleFingerGif.gif');
+}
+
+TextField{
+    -fx-background-color: 	#E6E6FA ;
+}

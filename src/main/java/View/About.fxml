@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="419.0" prefWidth="693.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.AboutController">
+    <children>
+        <TextArea editable="false" prefHeight="419.0" prefWidth="693.0" text="This amazing maze was created by Gal Buzaglo and Shay Eretz kdosha.&#10;&#10;The optionals algorithms to generate this maze are:&#10;&#10;1) SimpleMazeGenerator - chooses one straight path to the goal point and fills the rest of the maze randomly.&#10;&#10;2)MyMazeGenerator - implemented with DFS algorithm to generate random mazes.&#10;&#10;The optionals algorithms to solve this maze are:&#10;&#10;1) BFS algorithm&#10;&#10;2) DFS algorithm&#10;&#10;3) Best first search algorithm&#10;&#10;&#10;  " wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <font>
+                <Font size="14.0" />
+            </font></TextArea>
+    </children>
+</AnchorPane>
